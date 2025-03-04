@@ -21,7 +21,7 @@ pip install advtorchattacks
 
 ```
 
-### ** 2 Install from GitHub (Latest Version)**
+### ** 2 Install from GitHub **
 
 ```bash
 
