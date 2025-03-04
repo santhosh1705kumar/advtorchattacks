@@ -13,7 +13,7 @@
 ##  Installation
 
 You can install `advtorchattacks` in two ways:
-### ** 1️ Install from PYPI **
+###  1️ Install from PYPI
 
 ```bash
 
@@ -21,7 +21,7 @@ pip install advtorchattacks
 
 ```
 
-### ** 2 Install from GitHub **
+### 2 Install from GitHub 
 
 ```bash
 
